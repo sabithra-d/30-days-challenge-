@@ -1,0 +1,9 @@
+
+PYTHON
+
+input_string = input()
+print('Hello, World.')
+print(input_string)
+
+//Hello,World
+welcome to 30 days code
